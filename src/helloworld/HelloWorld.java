@@ -7,8 +7,3 @@ public class HelloWorld {
 		System.out.println("Hello World");
 	}
 }
-aasdasd
-
-asdasjdoasijdo
-
-asdasdasd
